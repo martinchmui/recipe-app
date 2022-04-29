@@ -1,0 +1,21 @@
+.form-control:focus {
+  border-color: none;
+  box-shadow: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+#recipe-title {
+    font-size: 2rem;
+}
+
+#remove-ingredient {
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+}
